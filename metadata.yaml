@@ -1,4 +1,8 @@
 _repo: A-Chautauqua-Idyl_51103
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51103-h/images/cover.jpg
 creator:
   author:
     agent_name: Hill, Grace Livingston
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2299
     wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51103#A-Chautauqua-Idyl
 gutenberg_issued: '2016-02-01'
 gutenberg_type: Text
 identifiers:
